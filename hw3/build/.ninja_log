@@ -14,7 +14,7 @@
 112	995	7344180810865929	CMakeFiles/adc.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj	4de975dc3e128f5a
 962	1733	7344180818325930	CMakeFiles/adc.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/pheap.c.obj	85f45873c04bb60a
 80	706	7344180808635919	CMakeFiles/adc.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj	e35fa7aacea81705
-68	365	7344181184867155	CMakeFiles/adc.dir/adc.c.obj	7185847b76a57ccb
+59	379	7344185171545250	CMakeFiles/adc.dir/adc.c.obj	7185847b76a57ccb
 153	916	7344180808685921	CMakeFiles/adc.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/sem.c.obj	ad85899328d5d3c9
 1061	1556	7344180817315949	CMakeFiles/adc.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj	730b59953fa84d0f
 3345	4291	7344180844856067	CMakeFiles/adc.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj	fc8817042b681a8
@@ -75,9 +75,5 @@
 4937	5691	7344180858763186	CMakeFiles/adc.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj	d0325881c8fa3692
 4865	5690	7344180858743174	CMakeFiles/adc.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/tusb.c.obj	cfbbf3f1bf78652b
 4905	5952	7344180861653224	CMakeFiles/adc.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj	be08ca2145110519
-5939	6459	7344135395497613	adc.elf	bc7a8fc89f948abe
-5518	5830	7344180860443174	CMakeFiles/adc.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj	1b972aa8b2798078
-60	380	7344181514152115	CMakeFiles/adc.dir/adc.c.obj	7185847b76a57ccb
-382	915	7344181517242499	adc.elf	ca3e41b437d8a1c4
-59	379	7344185171545250	CMakeFiles/adc.dir/adc.c.obj	7185847b76a57ccb
 380	941	7344185174927396	adc.elf	ca3e41b437d8a1c4
+5518	5830	7344180860443174	CMakeFiles/adc.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj	1b972aa8b2798078
