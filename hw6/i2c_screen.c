@@ -80,7 +80,7 @@ int main() {
         // get frames per second
         t_prev = t;
         t = to_us_since_boot(get_absolute_time());
-        sprintf(message, "Frames per second: %f", 1000000.0/(t - t_prev));
+        sprintf(message, "FPS: %f", 1000000.0/(t - t_prev));
         ssd1306_writeMessage(1, 10, message);
 
         // write to the screen
