@@ -28,7 +28,7 @@
 1035	1923	7344131090724402	CMakeFiles/blink.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj	bdb74ff591afbe7f
 534	1374	7344131084344421	CMakeFiles/blink.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj	6eb72538e94d6fb
 1992	2730	7344131099434379	CMakeFiles/blink.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj	46d05a49fb57bd26
-65	290	7344178901944413	CMakeFiles/blink.dir/blink.c.obj	9ae9ba2e8cdd450
+46	225	7352041692358595	CMakeFiles/blink.dir/blink.c.obj	9ae9ba2e8cdd450
 951	1395	7344131085564410	CMakeFiles/blink.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/critical_section.c.obj	7af51b5b4f336c38
 1314	1883	7344131090984412	CMakeFiles/blink.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj	73510d7dcf7dec33
 2730	3277	7344131104844593	CMakeFiles/blink.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj	71128a426d57a936
@@ -47,7 +47,7 @@
 3233	3844	7344131110714459	CMakeFiles/blink.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj	5f79e31995c48d19
 2667	3080	7344131102294548	CMakeFiles/blink.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj	95ff81350275f1ff
 2943	3233	7344131104304391	CMakeFiles/blink.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj	c1ba978bbaf85210
-292	737	7344178904694680	blink.elf	210e7bbd8365f913
+227	984	7352041698221803	blink.elf	210e7bbd8365f913
 2423	3291	7344131104864406	CMakeFiles/blink.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_math.c.obj	74846676d66cef1a
 3021	3440	7344131106614404	CMakeFiles/blink.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj	8dfae55b2c10c672
 942	3596	7344131108214584	CMakeFiles/blink.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/mutex.c.obj	ca56bbc500bf9002
